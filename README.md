@@ -1,3 +1,4 @@
+![](https://forums.fast.ai/uploads/default/original/3X/8/4/84024fd0e29cb074c986a4c567aba8419492dcb2.jpeg)
 # YOLOv8 Object Detection #
 
 This project implements real-time object detection using the YOLOv8 model. The application captures video from a webcam, processes each frame to detect objects, and displays the results in a fullscreen window. YOLOv8 (You Only Look Once) is a state-of-the-art, real-time object detection system known for its speed and accuracy.
@@ -11,7 +12,7 @@ This project implements real-time object detection using the YOLOv8 model. The a
 - Contributing
 
 ## Features
-  
+  ![](https://ubiai.tools/wp-content/uploads/2023/10/YOLO.jpg)
 - Real-Time Detection: Detects objects in real-time from the webcam feed.
 - Fullscreen Display: Provides a fullscreen window for better visibility of detections.
 - Frame Rate Monitoring: Displays the frames per second (FPS) to monitor performance.
