@@ -21,7 +21,7 @@ This project implements real-time object detection using the YOLOv8 model. The a
 ## Requirements
 To run this project, you need the following:
 
-- Python: Version 3.8 or higher.
+- Python: Version 3.12 or higher.
 - Libraries:
 - OpenCV
 - Ultralytics YOLOv8
