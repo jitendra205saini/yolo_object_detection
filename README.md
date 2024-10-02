@@ -40,9 +40,9 @@ Open your terminal or command prompt and run the following command:
 2. Install Required Libraries:-<br>
 Use pip to install the necessary Python libraries:
 
-  ```
-  pip install opencv-python ultralytics
-  ```
+    ```
+   pip install opencv-python ultralytics
+   ```
 3. Download YOLOv8 Model Weights:-<br>
 Download the YOLOv8 model weights (yolov8s.pt) from the official Ultralytics YOLOv8 repository. Place the downloaded weights file in the project directory.
 
@@ -55,9 +55,9 @@ To run the object detection application, follow these steps:
 
  3. Execute the script with the following command:
 
-   ```
-   python objectdetecteor.py
-   ```
+     ```
+     python objectdetecteor.py
+     ```
 
 
  4. The application will open a fullscreen window displaying the video feed with detected objects highlighted.
