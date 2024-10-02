@@ -78,13 +78,13 @@ Contributions are welcome! If you would like to improve this project, please fol
  1. Fork the Repository: Click on the “Fork” button at the top right of this page.
 
  2. Create a Feature Branch: Use the command:
-   ````
-   git checkout -b feature/YourFeatureName
-   ````
+    ````
+    git checkout -b feature/YourFeatureName
+    ````
  3. Commit Your Changes: Make your changes and commit them with a meaningful message:
-   ````
-   git commit -m "Add some feature"
-   ````
+    ````
+    git commit -m "Add some feature"
+    ````
  4. Push to the Branch:
 
     ````
