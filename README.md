@@ -1,3 +1,8 @@
+
+
+
+Follow me on LinkedIn : [click](https://www.linkedin.com/in/jitendarkumarsaini25/)
+
 ![](https://forums.fast.ai/uploads/default/original/3X/8/4/84024fd0e29cb074c986a4c567aba8419492dcb2.jpeg)
 # YOLOv8 Object Detection #
 
