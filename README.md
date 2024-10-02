@@ -56,7 +56,7 @@ To run the object detection application, follow these steps:
  3. Execute the script with the following command:
 
    ```
-   python your_script_name.py
+   python objectdetecteor.py
    ```
 
 
@@ -79,7 +79,7 @@ Contributions are welcome! If you would like to improve this project, please fol
 
  2. Create a Feature Branch: Use the command:
     ````
-    git checkout -b feature/YourFeatureName
+    git checkout -b feature/objectdetecteor.py
     ````
  3. Commit Your Changes: Make your changes and commit them with a meaningful message:
     ````
@@ -88,6 +88,6 @@ Contributions are welcome! If you would like to improve this project, please fol
  4. Push to the Branch:
 
     ````
-    git push origin feature/YourFeatureName
+    git push origin feature/objectdetecteor.py
     ````
 5. Create a Pull Request: Open a pull request and describe your changes.
